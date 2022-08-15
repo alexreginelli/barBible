@@ -1,0 +1,9 @@
+* {
+  margin: 0
+}
+header {
+  background-color: black;
+  border-bottom: 10px solid red;
+  color: white;
+  height: 5em;
+}
